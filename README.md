@@ -1,20 +1,14 @@
-## Freshwork Frontend Assignment
+## Freshwork Task(Creating a Movie search page)
 
 ## Project Details
 
 ### Description
 
-A web application used to search for movies and view the details of those movies. An user can search for any movie by its title and the movies relevant to that title will be displayed.
+A web application used to search for movies and view the details of those movies. 
+User need to search with the movie title and user will get the details.
 
 ### Features and flows
-
-- results are displayed in card format for easier Viewability
-- When movie is clicked, modal containing the details of the movie is displayed
+Results are displayed according to there year of release.
 
 ### Run the project
-
-Clone the repository using git clone command, and view the `index.html` in a web browser.
-
-(or)
-
-Download as zip file, and extract it. View the `index.html` in a web browser.
+Run the file named `index.html` in any web browser.
