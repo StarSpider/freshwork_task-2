@@ -12,3 +12,5 @@ Results are displayed according to there year of release.
 
 ### Run the project
 Run the file named `index.html` in any web browser.
+
+@Created by StarSpider 2019
